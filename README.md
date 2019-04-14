@@ -9,3 +9,5 @@
 **Day 4 - 4/12/2019** - Learned pull request into GitHub and learned shortcut for doctype population
 
 **Day 5 - 4/13/2019** - Learned how to sync when working within github in one location to VS code when I got home.
+
+**Day 6 - 4/14/2019** - Practiced free codecamp curriculum, looked over do while loop.
