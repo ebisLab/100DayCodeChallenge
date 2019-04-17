@@ -13,3 +13,5 @@
 **Day 6 - 4/14/2019** - Practiced free codecamp curriculum, looked over do while loop.
 
 **Day 7 - 4/15/2019** - Practiced getElementsbyId;
+
+**Day 8 - 4/18/2019** - Experimenting with gradient colored border round radius button; [Demo](https://codepen.io/ebizl/pen/mgpQZN)
