@@ -14,4 +14,8 @@
 
 **Day 7 - 4/15/2019** - Practiced getElementsbyId;
 
-**Day 8 - 4/18/2019** - Experimenting with gradient colored border round radius button; [Demo](https://codepen.io/ebizl/pen/mgpQZN)
+**Day 8 - 4/16/2019** - Experimenting with gradient colored border round radius button; [Demo](https://codepen.io/ebizl/pen/mgpQZN)
+
+**Day 9 - 4/17/2019** -  Learned how to update forked repo
+
+**Day 10 - 4/18/2019** - Learned how to create rounded tabs with :before: and :after selectors
