@@ -20,4 +20,5 @@
 
 **Day 10 - 4/18/2019** - Learned how to create rounded tabs with :before: and :after selectors
 
-**Day 26 - 4/28/2019** - Free Code camp Profile Look up 
+**Day 26 - 4/28/2019** - Free Code camp Profile Look up. Created an illustration via CSS. Learned that z-indexes work when you set positions to the elements. 
+
