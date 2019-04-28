@@ -19,3 +19,5 @@
 **Day 9 - 4/17/2019** -  Learned how to update forked repo
 
 **Day 10 - 4/18/2019** - Learned how to create rounded tabs with :before: and :after selectors
+
+**Day 26 - 4/28/2019** - Free Code camp Profile Look up 
