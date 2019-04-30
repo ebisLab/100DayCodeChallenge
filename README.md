@@ -22,3 +22,5 @@
 
 **Day 26 - 4/28/2019** - Free Code camp Profile Look up. Created an illustration via CSS. Learned that z-indexes work when you set positions to the elements. 
 
+**Day 27 - 4/29/2019** - Attempted to restart profile look up challenge. 
+
