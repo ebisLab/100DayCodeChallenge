@@ -24,5 +24,7 @@
 
 **Day 27 - 4/29/2019** - Attempted to restart profile look up challenge. 
 
-**Day 28 - 4/29/2019** - Profile look up day 3;
+**Day 28 - 4/30/2019** - Profile look up day 3;
+
+**Day 29 - 5/1/2019** - Profile look up completed; Using [Chris Ferdinandi Go Make Things RoadMap] (https://learnvanillajs.com/roadmap/) to reinforce contents. 
 
