@@ -24,3 +24,5 @@
 
 **Day 27 - 4/29/2019** - Attempted to restart profile look up challenge. 
 
+**Day 28 - 4/29/2019** - Profile look up day 3;
+
