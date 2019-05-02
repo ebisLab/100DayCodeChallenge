@@ -27,4 +27,7 @@
 **Day 28 - 4/30/2019** - Profile look up day 3;
 
 **Day 29 - 5/1/2019** - Profile look up completed; Using [Chris Ferdinandi Go Make Things RoadMap] (https://learnvanillajs.com/roadmap/) to reinforce contents. 
+Worked on some more css art. 
+
+**Day 30 - 5/2/2019** - CSS: The :after and :before selector stay in conjuction to the parent class when margins and paddings are added (to the parent class)
 
