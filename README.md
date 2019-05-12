@@ -31,3 +31,7 @@ Worked on some more css art.
 
 **Day 30 - 5/2/2019** - CSS: The :after and :before selector stay in conjuction to the parent class when margins and paddings are added (to the parent class)
 
+**Day 31 - 5/7/2019** - Understanding of let and const and how they're different from var
+
+**DAY 32 5/11/2019** - Experimenting with a bootlegged version of canvas [demo] (https://codepen.io/ebizl/pen/GaqMZa);
+
