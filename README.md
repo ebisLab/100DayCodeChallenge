@@ -37,4 +37,5 @@ Worked on some more css art.
 
 **Day 33 5/12/2019** - Experimenting with overlah: hidden
 **Day 34 5/13/2019** - Experimenting with follow mouse cursor for "googley-eyes"; Having a better understanding how pixels and percentages work for margins. 
+**Day 35 5/14/2019** - Awesome resource for [display types] (https://www.w3schools.com/cssref/playit.asp?filename=playcss_display&preval=block) 
 
