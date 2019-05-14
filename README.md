@@ -36,4 +36,4 @@ Worked on some more css art.
 **DAY 32 5/11/2019** - Experimenting with a bootlegged version of canvas [demo] (https://codepen.io/ebizl/pen/GaqMZa);
 
 **Day 33 5/12/2019** - Experimenting with overlah: hidden
-
+**Day 34 5/12/2019** More experimenting with overlap hidden
