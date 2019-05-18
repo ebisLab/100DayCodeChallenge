@@ -41,7 +41,7 @@ Worked on some more css art.
 
 **Day 35 5/14/2019** - Awesome resource for [display types] (https://www.w3schools.com/cssref/playit.asp?filename=playcss_display&preval=block) 
 
-**Day 36 5/15/2019** - practicing mouse events in googley eyes [demo] (hhttps://codepen.io/ebizl/pen/OYWEVZ)
+**Day 36 5/15/2019** - practicing mouse events in googley eyes [demo] (https://codepen.io/ebizl/pen/OYWEVZ)
 
 **Day 37 5/17/2019** - Learning about parent classes in css [demo] (https://codepen.io/ebizl/pen/VOWrVx)
 
