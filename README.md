@@ -45,7 +45,7 @@ Worked on some more css art.
 
 **Day 37 5/17/2019** - Learning about parent classes in css [demo] (https://codepen.io/ebizl/pen/VOWrVx)
 
-**Day 39 5/21/2019** - Experimentation with menu button. Learned the :not(element) selector - example :not(p) which translates to set something for all elements that are not "< p >".
+**Day 39 5/21/2019** - Experimentation with menu button. Learned the :not(element) selector - example :not(p) which translates to set something for all elements that are not **"< p >"**.
 
 Fortified knowledge on media queries.
 
