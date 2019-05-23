@@ -48,4 +48,4 @@ Worked on some more css art.
 **Day 39 5/21/2019** - Experimenting with menu button through pure css. Learned the **:not(element)** selector - example **:not(p)** which translates to set something for all elements that are not **"< p >"**. <br>
 Fortified knowledge on media queries.
 
-**Day 40 5/22/2019** - Expanded knowledge on media queries and max-width sizes. Learned about **brief** documents and how they must be followed strictly. 
+**Day 40 5/22/2019** - Expanded knowledge on media queries and max-width sizes. Learned about **brief** documents and how they must be followed strictly as they are requirements. 
