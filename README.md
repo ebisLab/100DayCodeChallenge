@@ -49,3 +49,5 @@ Worked on some more css art.
 Fortified knowledge on media queries.
 
 **Day 40 5/22/2019** - Expanded knowledge on media queries and max-width sizes. Learned about **brief** documents and how they must be followed strictly as they are requirements. 
+
+----------------
