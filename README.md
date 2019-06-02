@@ -52,4 +52,8 @@ Fortified knowledge on media queries.
 
 **Day 41 5/24/2019** - Learned some more things about git in terminal. Learned how to configure account settings when switching to different account through `git config --global user.email` and `git config --global user.name`
 
+**Day 42 5/28/2019** - # [checkbox:checked] Learned about display: inline-block as a previous alternative to display: flex;
+
+**Day 43 6/1/2019** - Learned # [checkbox:checked];
+
 ----------------
