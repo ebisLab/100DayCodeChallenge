@@ -54,6 +54,7 @@ Fortified knowledge on media queries.
 
 **Day 42 5/28/2019** - # [checkbox:checked] Learned about display: inline-block as a previous alternative to display: flex;
 
-**Day 43 6/1/2019** - Learned # [checkbox:checked];
+**Day 43 6/1/2019** - Learned # [checkbox:checked];    checked # [checkbox:checked]
+
 
 ----------------
