@@ -56,6 +56,7 @@ Fortified knowledge on media queries.
 
 **Day 43 6/1/2019** - Learned - [x];    checked # [&#9745;]  :white_check_mark:
 **Day 44 6/2/2019** - Pull request
+**Day 48 6/6/2019** - Solidifying on pull requests
 
 
 ----------------
