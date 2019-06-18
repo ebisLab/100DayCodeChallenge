@@ -59,6 +59,7 @@ Fortified knowledge on media queries.
 **Day 48 6/6/2019** - Solidifying on pull requests
 **Day 51 6/11/2019** - Closures and Callbacks
 **Day 55 6/17/2019** - DOM manipulations
+**Day 56 6/18/2019** - Form validation
 
 
 ----------------
