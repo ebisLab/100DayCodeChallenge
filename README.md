@@ -60,6 +60,7 @@ Fortified knowledge on media queries.
 **Day 51 6/11/2019** - Closures and Callbacks
 **Day 55 6/17/2019** - DOM manipulations
 **Day 56 6/18/2019** - Form validation
+**Day 57 6/19/2019** - worked with querySelectors and practiced on several different event listeners. 
 
 
 ----------------
