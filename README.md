@@ -61,6 +61,7 @@ Fortified knowledge on media queries.
 **Day 55 6/17/2019** - DOM manipulations
 **Day 56 6/18/2019** - Form validation
 **Day 57 6/19/2019** - worked with querySelectors and practiced on several different event listeners. 
+**Day 59 6/21/2019** - Built a current date generator and included it in [Lambda Sprint Challenge]  (http://htmlpreview.github.io/?https://github.com/ebisLab/Sprint-Challenge-Applied-Javascript/blob/eunice-baiden/index.html)
 
 
 ----------------
