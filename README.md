@@ -55,13 +55,24 @@ Fortified knowledge on media queries.
 **Day 42 5/28/2019** - # [checkbox:checked] Learned about display: inline-block as a previous alternative to display: flex;
 
 **Day 43 6/1/2019** - Learned - [x];    checked # [&#9745;]  :white_check_mark:
+
 **Day 44 6/2/2019** - Pull request
+
 **Day 48 6/6/2019** - Solidifying on pull requests
+
 **Day 51 6/11/2019** - Closures and Callbacks
+
 **Day 55 6/17/2019** - DOM manipulations
+
 **Day 56 6/18/2019** - Form validation
+
 **Day 57 6/19/2019** - worked with querySelectors and practiced on several different event listeners. 
 **Day 59 6/21/2019** - Built a current date generator and included it in [Lambda Sprint Challenge]  (http://htmlpreview.github.io/?https://github.com/ebisLab/Sprint-Challenge-Applied-Javascript/blob/eunice-baiden/index.html)
+
+**Day 60 6/21/2019** - Practiced event listeners with wordpress page. 
+
+**Day 61 6/22/2019** - Built an event listener slider mp3 player to control playback rate [DEMO](https://codepen.io/ebizl/pen/PrmQJg) 
+
 
 
 ----------------
