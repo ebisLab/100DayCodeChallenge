@@ -73,6 +73,11 @@ Fortified knowledge on media queries.
 
 **Day 61 6/22/2019** - Built an event listener slider mp3 player to control playback rate [DEMO](https://codepen.io/ebizl/pen/PrmQJg) 
 
+**Day 62 6/28/2019** - Reusable component section added in replate app landing page [DEMO](https://replateapp.netlify.com/index.html#service)
+
+**Day 63-68 7/4-9/2019** - Colors array - [DEMO](https://codepen.io/ebizl/pen/vqvevg)
+**Day 69 - 7/10/2019** Refactored components using createElement methods
+
 
 
 ----------------
