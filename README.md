@@ -78,6 +78,7 @@ Fortified knowledge on media queries.
 **Day 63-68 7/4-9/2019** - Colors array - [DEMO](https://codepen.io/ebizl/pen/vqvevg)
 **Day 69 - 7/10/2019** Refactored components using createElement methods
 
+**Day 70 - 7/11/2019** Apperently **InnerHTML** is unsecured way of passing data into the page. It's best to use **textContent**
 
 
 ----------------
