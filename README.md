@@ -80,5 +80,7 @@ Fortified knowledge on media queries.
 
 **Day 70 - 7/11/2019** Apperently **InnerHTML** is unsecured way of passing data into the page. It's best to use **textContent**
 
+**Day 76 7/19/2019** Learned about Semantic Ui, and incorporated `grid display` and `grid display column`
+
 
 ----------------
