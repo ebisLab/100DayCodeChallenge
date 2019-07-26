@@ -82,5 +82,7 @@ Fortified knowledge on media queries.
 
 **Day 76 7/19/2019** Learned about Semantic Ui, and incorporated `grid display` and `grid display column`
 
+**Day 82 7/25/2019** Exposed to dark mode and `useLocalStorage` in browser
+
 
 ----------------
