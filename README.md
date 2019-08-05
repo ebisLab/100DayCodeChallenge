@@ -84,5 +84,8 @@ Fortified knowledge on media queries.
 
 **Day 82 7/25/2019** Exposed to dark mode and `useLocalStorage` in browser
 
+**Day 88 8/2/2019** Hooks functional component build week project
+**Day 91 8/5/2019** class components todo app that adds, deletes class with completed toggled class. 
+
 
 ----------------
