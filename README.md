@@ -89,7 +89,7 @@ Fortified knowledge on media queries.
 
 **Day 93 8/7/2019** Form Validation via Axios, and Yup and Formik
 
-**Day 95 8/8/2019** Testing Web Applications - 
+**Day 95 8/8/2019** Testing Web Applications - Jest testing on function
 - Unit Testing
 - Integration testing
 - end-to-end testing
