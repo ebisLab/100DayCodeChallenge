@@ -87,5 +87,12 @@ Fortified knowledge on media queries.
 **Day 88 8/2/2019** Hooks functional component build week project
 **Day 91 8/5/2019** class components todo app that adds, deletes class with completed toggled class. 
 
+**Day 93 8/7/2019** Form Validation via Axios, and Yup and Formik
+
+**Day 95 8/8/2019** Testing Web Applications - 
+- Unit Testing
+- Integration testing
+- end-to-end testing
+
 
 ----------------
