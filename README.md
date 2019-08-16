@@ -94,5 +94,7 @@ Fortified knowledge on media queries.
 - Integration testing
 - end-to-end testing
 
+**Day 103 8/16/2019** Axios .POST & .GET requests with Redux application
+
 
 ----------------
